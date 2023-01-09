@@ -1,2 +1,3 @@
 # osx-duplex-scanner
-Simple utility to scan duplex documents on OSX
+
+Simple script to scan duplex documents on OSX.
